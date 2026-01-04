@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+Responsibilities:
+- Design and develop machine learning models for production.
+- Build and optimize data pipelines for training and inference.
+- Collaborate with data scientists and software engineers.
+- Ensure scalability and efficiency of ML solutions.
+
+Required Skills:
+- Strong proficiency in Python.
+- Experience with TensorFlow or Keras.
+- Knowledge of NLP techniques and libraries.
+- SQL and database management.
+- Familiarity with Git and version control.
+
+Education:
+- Bachelor’s or Master’s in Computer Science, Data Science, or related field.

@@ -1,0 +1,17 @@
+Job Title: Web Developer (Frontend)
+
+Responsibilities:
+- Develop and maintain responsive web applications.
+- Collaborate with designers to implement UI/UX features.
+- Optimize websites for performance and scalability.
+- Debug and troubleshoot frontend issues.
+
+Required Skills:
+- Proficiency in HTML, CSS, and JavaScript.
+- Experience with React or similar frameworks.
+- Knowledge of responsive design principles.
+- Familiarity with Git and version control.
+- Basic understanding of backend integration.
+
+Education:
+- Bachelor’s in Computer Science, Web Development, or related field.
